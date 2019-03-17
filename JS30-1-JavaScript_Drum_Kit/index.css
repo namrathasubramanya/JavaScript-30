@@ -1,0 +1,51 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url('images/1.jpg');
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+kbd {
+  display: block;
+  font-size: 4rem;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+  padding: 10px;
+  grid-gap: 20px;
+  margin-left: 15px;
+  margin-right: 40px;
+  margin-top: 25%;
+}
+
+.grid-item {
+  background-color: deepPink;
+  padding: 40px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+}
+
+.play {
+  transform: scale(1.4);
+  border-color: #ffc600;
+  box-shadow: 3 3 2rem #fff;
+}
+
+.sound {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  
+}
+
+.key {
+  transition: all .07s ease;
+}
