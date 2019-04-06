@@ -11,3 +11,9 @@
 ### [Demo](https://clock-js.glitch.me/)
 
 ![JavaScript Clock](JS30-2-Clock/images/clock.png)
+
+## JavaScript-3 : Variables in CSS 
+
+### [Demo](https://codepen.io/namrathasubramanya/full/XQKZwp)
+
+![JavaScript Clock](JS30-3-Variables_In_CSS/images/image.png)
