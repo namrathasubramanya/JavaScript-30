@@ -22,6 +22,6 @@
 
 ## JavaScript-5: Flex Panel Image Gallery
 
-### [Demo]
+### [Demo](https://codepen.io/namrathasubramanya/full/wbMQwp)
 
 ![Flex Panel Image Gallery](JS30-5-Flex-Panel-Image-Gallery/images/image.png)
